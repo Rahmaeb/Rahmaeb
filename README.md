@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hey there 👋 I'm Rahma Ibrahim</h1>
+<h1 align="center">Hey there 👋 I'm Rahma Ebraheem</h1>
 <h3 align="center">Aspiring Software Tester | Manual & Automation QA | From Egypt 🇪🇬</h3>
 
 ---
