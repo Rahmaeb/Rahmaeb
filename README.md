@@ -61,6 +61,33 @@ Here are some ideas to get you started:
 - 🌟 Exploring new tools, growing in automation, and contributing to quality-first products
 
 ---
+### 🔝 Top Contributed Repo
+
+ **[SwagLabs](https://github.com/Rahmaeb/SwagLabs)**  
+A comprehensive testing suite for Swag Labs covering functional, UI, and performance testing. Focused on validating user login, inventory management, and the full checkout flow.  
+**Tags**: `manual-testing` `automation-testing` `performance-testing` `API-testing` `Java`
+
+🔹 **[Guru99-Banking-Project](https://github.com/Rahmaeb/Guru99-Banking-Project)**  
+Manual test cases for fund transfer, mini statement, and balance inquiry features in a banking system.  
+**Tags**: `manual-testing` `test-cases`
+
+🔹 **[Shopping_Cart_System](https://github.com/Rahmaeb/Shopping_Cart_System)**  
+Java-based project implementing OOP concepts such as classes, arrays, and user interaction.  
+**Tags**: `Java` `OOP` `console-application`
+
+
+---
+
+### 🎓 Education
+
+- **Faculty of Engineering – Electrical and Computer Department, Menoufia University (2019–2024)**  
+  Graduation Project: *Smart Wheelchair System* *(Grade: A+)*
+
+- **DEPI – Software Tester Trainee, Ministry of Communication & IT (2024–2025)**
+
+- **Career180 – Software Tester Trainee (2024–2025)** 
+
+---
 
 ### 📫 Let's Connect!
 
